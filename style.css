@@ -25,12 +25,14 @@ main{
 }
 
 .img-wrap {
+  position: relative;
+  display: inline-block;
   max-width: 1000px;
   margin: 0 auto;
+  vertical-align: middle;
   
 }
 .img-wrap img {
-  display: inline-block;
   margin: 0 auto;
   max-width: 100%;
   object-fit: cover;
