@@ -11,7 +11,7 @@
 
 h1 {
   color: orange;
-  background-color: black;
+  background-color: white;
 }
 
 li{
@@ -26,7 +26,7 @@ main{
 
 .img-wrap {
   position: relative;
-  display: inline;
+  right: 0%:
   max-width: 1000px;
   margin: 0 auto;
   vertical-align: middle;
@@ -34,7 +34,7 @@ main{
 }
 .img-wrap img {
   margin: 0 auto;
-  max-width: 100%;
+  width: 49%;
   object-fit: cover;
 }
 
