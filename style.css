@@ -9,6 +9,15 @@
   margin: 50px 0;
 }
 
+h1 {
+  color: orange;
+  background-color: white;
+}
+
+.index li{
+  display: inline;
+}  
+
 .img-wrap {
   max-width: 1000px;
   margin: 0 auto;
