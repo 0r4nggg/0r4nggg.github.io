@@ -26,7 +26,8 @@ main{
 
 .img-wrap {
   position: relative;
-  right: 0%:
+  right: 0%;
+  display: inline-block;
   max-width: 1000px;
   margin: 0 auto;
   vertical-align: middle;
