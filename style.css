@@ -25,13 +25,13 @@ main{
 }
 
 .img-wrap {
-  right: 0;
-  display: inline-block;
-  max-width: 1000px;
-  margin: 0 auto;
-  vertical-align: middle;
+   position: relative;
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
   
 }
+
 .img-wrap img {
   margin: 0 auto;
   width: 49%;
