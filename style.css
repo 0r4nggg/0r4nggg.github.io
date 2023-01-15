@@ -41,8 +41,5 @@ main{
 #navigation {
    position: fixed;
     right: 0;
-    width: 80%;
-    top: 0;
     text-align: right;
-    height: 50px;
 }
