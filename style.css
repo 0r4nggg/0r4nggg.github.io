@@ -27,15 +27,14 @@ main{
 .img-wrap {
    position: relative;
     display: inline-block;
-    width: 49%;
     vertical-align: middle;
   
 }
 
 .img-wrap img {
   margin: 0 auto;
-  width: 49%;
   object-fit: cover;
+  right: 0;
 }
 
 #navigation {
