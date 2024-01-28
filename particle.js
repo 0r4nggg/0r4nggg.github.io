@@ -1,4 +1,4 @@
-particlesJS("orangep", { //HTMLのidを指定
+particlesJS("snow_particlesjs", { //HTMLのidを指定
  "particles": {
    //シェイプの設定
    "number": {
