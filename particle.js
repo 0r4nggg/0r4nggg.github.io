@@ -11,7 +11,7 @@ particlesJS("orangep", { //HTMLのidを指定
    "shape": {
      "type": "image", //circle、edge、triangle、polygon、star、image から選べる
      "image": {
-       "src": "https://kakechimaru.com/wp-content/themes/kakechimaru/image/snow_particlesjs.png", //雪の画像を設定する ※相対パスでも可
+       "src": "https://4.bp.blogspot.com/-PYqNTVOP9hs/UgSMR6zIbdI/AAAAAAAAXAk/tDJMCfemfwk/s800/fruit_orange.png", //雪の画像を設定する ※相対パスでも可
      }
    },
    "opacity": {
