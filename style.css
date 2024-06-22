@@ -4,40 +4,40 @@
   box-sizing: border-box;
 }
 
-.head-1 {
+.head-1, h1 {
   text-align: center;
-  margin: 50px 0;
-}
-
-h1 {
   color: orange;
   background-color: white;
+  /* マージンの調整が必要であれば追加 */
 }
 
-li{
+li {
   list-style-type: none;
-  display: inline;
-} 
+  display: inline-block; /* インラインブロック要素として表示 */
+  margin-right: 10px; /* 適切な間隔を追加 */
+}
 
-main{
-  padding-top: 50px;
+main {
+  padding-top: 100px; /* 適切なパディングを追加 */
   background-color: #ff9152;
 }
 
 .img-wrap {
-   display: flex;
-  justify-content: center !important;
-  
+  display: flex;
+  justify-content: center;
 }
 
 .img-wrap img {
-  width: 25%;
-  height: 25%;
+  width: 50%; /* 画像のサイズを適切に調整 */
+  height: auto;
 }
 
 #navigation {
-   position: fixed;
-    right: 0;
-    text-align: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+  width: 150px; /* ナビゲーションの幅を調整 */
 }
-
